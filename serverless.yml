@@ -1,4 +1,4 @@
-service: serverless-nestjs
+service: lguerra-nestjs
 
 provider:
   name: aws
